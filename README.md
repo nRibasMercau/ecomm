@@ -3,3 +3,4 @@ E-Commerce app using HTML, CSS and vanilla JS - From The Modern Javascript Bootc
 
 https://www.udemy.com/share/102gjmAEMfdllQRX0J/
 
+Created by Colt Steele, Stephen Grider
